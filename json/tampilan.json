@@ -1,0 +1,21 @@
+{
+    "project":"Project 3",
+    "nama":"Ardiva Putri & Gabriella Youzanna",
+    "judulabout":"About Project 3",
+    "subjudulabout":"Micro Frontend & Micro Service Developer",
+    "isiabout":"Pada project 3 ini, kami membangun sebuah aplikasi yang harus terdiri dari Frontend dan Backend, dengan ketentuan:",
+    "isi1":"1. Frontend wajib di deploy di github pages dengan menggunakan konsep serverless micro frontend menggunakan Javascript ES6+.",
+    "isi2":"2. Backend minimal menggunakan RESTFull, boleh menggunakan web socket atau graphql untuk berinteraksi dengan Frontend.",
+    "isi3":"3. Backend wajib di hosting di GCP(Cloud Function/Cloud Run), AWS, Heroku, VPS, Hosting.",
+    "isi4":"4. Backend wajib menggunakan sistem Authentikasi berbasiskan token PASETO.",
+    "isi5":"5. Direkomendasikan membangun backend menggunakan Go Package atau Framework Go Fiber.",
+    "isi6":"6. Semua proses Proyek 3 menggunakan metode belajar Pomodoro dengan aplikasi pomokit.",
+    "judulview":"View Our Proposal",
+    "view":"Untuk melihat detail proposal kami, silahkan klik tombol dibawah ini",
+    "judulteam":"Team",
+    "namadipa":"Ardiva Putri Tava Prameswari",
+    "npmdipa":"1214003",
+    "bella":"Gabriella Youzanna Rorong",
+    "npmbel":"1214027",
+    "button":"View Proposal"
+}
